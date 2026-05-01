@@ -1,15 +1,15 @@
-# BeachRidge
+# Beach-Ridge
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 [![Python](https://img.shields.io/badge/python-3.x-blue.svg)]()
 
 A numerical model for simulating beach ridge development during relative sea-level (RSL) fall, based on a modified 2D cross-shore sediment partitioning framework.
 
-![animation](doc/example.gif)
+![animation](doc/animation.gif)
 
 ## Overview
 
-BeachRidge is a reduced-complexity, process-informed model built to explore how autogenic dynamics and environmental forcing shape uplifted beach ridge sequences. It extends the Subaerial Barrier Sediment Partitioning (SBSP) framework of Ciarletta et al. (2021) to simulate ridge morphology and progradation under falling RSL conditions. Rather than resolving full hydrodynamic processes, the model represents ridge evolution through simplified geometric relationships and prescribed sediment fluxes — making it computationally efficient and well-suited for long-timescale sensitivity analyses.
+Beach-Ridge is a reduced-complexity, process-informed model built to explore how autogenic and environmental forcings shape uplifted beach ridge morphology. It extends the Subaerial Barrier Sediment Partitioning (SBSP) framework of Ciarletta et al. (2021) to simulate ridge morphology and progradation under falling RSL conditions. Rather than resolving full hydrodynamic processes, the model represents ridge evolution through simplified geometric relationships and prescribed sediment fluxes — making it computationally efficient and well-suited for long-timescale sensitivity analyses.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ BeachRidge is a reduced-complexity, process-informed model built to explore how 
 Clone or download this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/beachridge.git
+git clone https://github.com/emilyhuffman/Beach-Ridge.git
 cd beachridge
 ```
 
@@ -54,7 +54,7 @@ With the environment active, launch Jupyter:
 jupyter notebook
 ```
 
-A browser window will open. Navigate to and open `Beach_ridge_main.ipynb` and run the cells sequentially.
+A browser window will open. Navigate to and open `beach_ridge_main.ipynb` and run the cells sequentially.
 
 ## References
 
