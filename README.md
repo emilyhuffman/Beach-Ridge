@@ -1,6 +1,6 @@
 # Beach-Ridge
 
-[![DOI](https://zenodo.org/badge/1226664857.svg)](https://doi.org/10.5281/zenodo.19962615)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19962615.svg)](https://doi.org/10.5281/zenodo.19962615)
 
 A numerical model for simulating beach ridge development during relative sea-level (RSL) fall, based on a modified 2D cross-shore sediment partitioning framework.
 
@@ -18,7 +18,7 @@ Clone or download this repository to your local machine:
 
 ```bash
 git clone https://github.com/emilyhuffman/Beach-Ridge.git
-cd beachridge
+cd Beach-Ridge
 ```
 
 ### Step 2 — Create a virtual environment
@@ -28,7 +28,7 @@ We recommend using **Anaconda** to manage dependencies. The instructions below a
 Open the **Anaconda Prompt** (Windows) or a terminal (Mac/Linux) and navigate to the repository folder:
 
 ```bash
-cd path/to/beachridge
+cd path/to/Beach-Ridge
 ```
 
 Create a new environment from the provided `environment.yml` file:
@@ -59,3 +59,4 @@ A browser window will open. Navigate to and open `beach_ridge_main.ipynb` and ru
 
 - Ciarletta, D. J., Miselis, J. L., Shawler, J. L., & Hein, C. J. (2021). Quantifying thresholds of barrier geomorphic change in a cross-shore sediment-partitioning model. Earth Surface Dynamics, 9(2), 183–203. https://doi.org/10.5194/esurf-9-183-2021
 - SBSP Model code: https://doi.org/10.5281/zenodo.2575699
+- Beach-Ridge model code (this repository): https://doi.org/10.5281/zenodo.19962615
