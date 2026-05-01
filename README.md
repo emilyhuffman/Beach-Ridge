@@ -1,7 +1,6 @@
 # Beach-Ridge
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
-[![Python](https://img.shields.io/badge/python-3.x-blue.svg)]()
+[![DOI](https://zenodo.org/badge/1226664857.svg)](https://doi.org/10.5281/zenodo.19962615)
 
 A numerical model for simulating beach ridge development during relative sea-level (RSL) fall, based on a modified 2D cross-shore sediment partitioning framework.
 
