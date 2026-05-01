@@ -1,0 +1,12 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11.5
+  - imageio
+  - numpy
+  - matplotlib
+  - shapely
+  - scipy
+  - notebook
+  - tabulate
